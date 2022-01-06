@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-01-06T14:48:28.444Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.2.2" etag="HCAS93sOM4zBLnw_lweq" type="github"><diagram id="4LQUPDGlQvP18Hfxd0Ga">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-06T18:34:44.536Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="2_6qvp4xdDx-63vngY4c" version="16.2.2" type="github">
+  <diagram id="4LQUPDGlQvP18Hfxd0Ga" name="Page-1">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Agf7Boz6mdReBaCJgz7f-1" value="написать книгу" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=0;size=0.375;fillColor=#FFB366;strokeColor=#36393d;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
