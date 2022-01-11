@@ -1,94 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2022-01-06T21:13:44.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="_3xmcI7WetxY_omoSrG2" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T07:29:07.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="D9ch7M8zkBpWs7B4KmTR" version="16.2.2" type="github">
   <diagram id="FYzoDqSfc95iZxdFGiKi" name="Page-1">
-    <mxGraphModel dx="754" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="y3BP08L7-loMRwbdsJEG-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="y3BP08L7-loMRwbdsJEG-1" target="y3BP08L7-loMRwbdsJEG-2">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="y3BP08L7-loMRwbdsJEG-1" target="y3BP08L7-loMRwbdsJEG-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y3BP08L7-loMRwbdsJEG-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="y3BP08L7-loMRwbdsJEG-1" target="y3BP08L7-loMRwbdsJEG-4">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="y3BP08L7-loMRwbdsJEG-1" target="y3BP08L7-loMRwbdsJEG-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y3BP08L7-loMRwbdsJEG-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="y3BP08L7-loMRwbdsJEG-1" target="y3BP08L7-loMRwbdsJEG-3">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="y3BP08L7-loMRwbdsJEG-1" target="y3BP08L7-loMRwbdsJEG-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y3BP08L7-loMRwbdsJEG-1" value="Обучение в магистратуре" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC99FF;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-1" value="Обучение в магистратуре" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D2FF8F;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="480" y="200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="y3BP08L7-loMRwbdsJEG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="y3BP08L7-loMRwbdsJEG-2" target="y3BP08L7-loMRwbdsJEG-14">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="y3BP08L7-loMRwbdsJEG-2" target="y3BP08L7-loMRwbdsJEG-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y3BP08L7-loMRwbdsJEG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="y3BP08L7-loMRwbdsJEG-2" target="y3BP08L7-loMRwbdsJEG-15">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="y3BP08L7-loMRwbdsJEG-2" target="y3BP08L7-loMRwbdsJEG-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y3BP08L7-loMRwbdsJEG-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="y3BP08L7-loMRwbdsJEG-2" target="y3BP08L7-loMRwbdsJEG-16">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="y3BP08L7-loMRwbdsJEG-2" target="y3BP08L7-loMRwbdsJEG-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y3BP08L7-loMRwbdsJEG-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="y3BP08L7-loMRwbdsJEG-2" target="y3BP08L7-loMRwbdsJEG-17">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="y3BP08L7-loMRwbdsJEG-2" target="y3BP08L7-loMRwbdsJEG-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y3BP08L7-loMRwbdsJEG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="y3BP08L7-loMRwbdsJEG-2" target="y3BP08L7-loMRwbdsJEG-18">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="y3BP08L7-loMRwbdsJEG-2" target="y3BP08L7-loMRwbdsJEG-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y3BP08L7-loMRwbdsJEG-2" value="Научная работа" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC99FF;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-2" value="Научная работа" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D2FF8F;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="480" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="y3BP08L7-loMRwbdsJEG-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="y3BP08L7-loMRwbdsJEG-3" target="y3BP08L7-loMRwbdsJEG-24">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="y3BP08L7-loMRwbdsJEG-3" target="y3BP08L7-loMRwbdsJEG-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y3BP08L7-loMRwbdsJEG-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="y3BP08L7-loMRwbdsJEG-3" target="y3BP08L7-loMRwbdsJEG-25">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="y3BP08L7-loMRwbdsJEG-3" target="y3BP08L7-loMRwbdsJEG-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y3BP08L7-loMRwbdsJEG-3" value="Педагогическая практика" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC99FF;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-3" value="Педагогическая практика" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D2FF8F;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="760" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="y3BP08L7-loMRwbdsJEG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="y3BP08L7-loMRwbdsJEG-4" target="y3BP08L7-loMRwbdsJEG-8">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="y3BP08L7-loMRwbdsJEG-4" target="y3BP08L7-loMRwbdsJEG-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y3BP08L7-loMRwbdsJEG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="y3BP08L7-loMRwbdsJEG-4" target="y3BP08L7-loMRwbdsJEG-7">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="y3BP08L7-loMRwbdsJEG-4" target="y3BP08L7-loMRwbdsJEG-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y3BP08L7-loMRwbdsJEG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="y3BP08L7-loMRwbdsJEG-4" target="y3BP08L7-loMRwbdsJEG-6">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="y3BP08L7-loMRwbdsJEG-4" target="y3BP08L7-loMRwbdsJEG-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y3BP08L7-loMRwbdsJEG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="y3BP08L7-loMRwbdsJEG-4" target="y3BP08L7-loMRwbdsJEG-9">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="y3BP08L7-loMRwbdsJEG-4" target="y3BP08L7-loMRwbdsJEG-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y3BP08L7-loMRwbdsJEG-4" value="Работа студента" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC99FF;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-4" value="Работа студента" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D2FF8F;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="200" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="y3BP08L7-loMRwbdsJEG-6" value="Прохождение всех промежуточных контрольных мероприятий" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC99FF;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-6" value="Прохождение всех промежуточных контрольных мероприятий" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D2FF8F;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="250" y="620" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="y3BP08L7-loMRwbdsJEG-7" value="Изучение всех дисциплин программы обучения" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC99FF;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-7" value="Изучение всех дисциплин программы обучения" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D2FF8F;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="250" y="520" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="y3BP08L7-loMRwbdsJEG-8" value="Посещение занятий" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC99FF;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-8" value="Посещение занятий" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D2FF8F;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="250" y="420" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="y3BP08L7-loMRwbdsJEG-9" value="Прохождение всех итоговых контрольных мероприятий" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC99FF;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-9" value="Прохождение всех итоговых контрольных мероприятий" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D2FF8F;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="250" y="720" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="y3BP08L7-loMRwbdsJEG-14" value="Выбор темы&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC99FF;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-14" value="Выбор темы&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D2FF8F;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="530" y="420" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="y3BP08L7-loMRwbdsJEG-15" value="Получение знаний по теме" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC99FF;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-15" value="Получение знаний по теме" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D2FF8F;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="530" y="520" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="y3BP08L7-loMRwbdsJEG-16" value="Создание личных наработок" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC99FF;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-16" value="Создание личных наработок" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D2FF8F;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="530" y="620" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="y3BP08L7-loMRwbdsJEG-17" value="Оформление исследования/проекта в ВКРМ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC99FF;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-17" value="Оформление исследования/проекта в ВКРМ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D2FF8F;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="530" y="720" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="y3BP08L7-loMRwbdsJEG-18" value="Защита диплома" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC99FF;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-18" value="Защита диплома" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D2FF8F;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="530" y="820" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="y3BP08L7-loMRwbdsJEG-24" value="Изучение основ педагогики" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC99FF;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-24" value="Изучение основ педагогики" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D2FF8F;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="810" y="420" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="y3BP08L7-loMRwbdsJEG-25" value="Преподавание" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC99FF;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="y3BP08L7-loMRwbdsJEG-25" value="Преподавание" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D2FF8F;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="810" y="520" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
