@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T17:54:48.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="0ZAd-e_ACxNj49LAfb4r" version="16.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-15T08:41:57.199Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="b9DRuJr6gn3XGT5NxO40" version="16.2.4" type="github" pages="3">
   <diagram id="R8ttIzidEQtJR_QAX2Dy" name="Page-1">
-    <mxGraphModel dx="1609" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2130" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,7 +12,7 @@
         <mxCell id="N_sfMWQOZsyDtJwOTm4D-2" value="Необходимо&lt;br&gt;получить&lt;br&gt;налоговый&lt;br&gt;вычет" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;strokeColor=#36393d;fillColor=#FF99FF;" parent="1" vertex="1">
           <mxGeometry x="-277" y="980" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="N_sfMWQOZsyDtJwOTm4D-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;exitX=0.315;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="ZH625JLDzQ8IdUuq4M_Y-10">
+        <mxCell id="N_sfMWQOZsyDtJwOTm4D-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;exitX=0.315;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="ZH625JLDzQ8IdUuq4M_Y-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-219.04999999999995" y="1369.04" as="sourcePoint" />
             <mxPoint x="-216" y="1440" as="targetPoint" />
@@ -467,7 +467,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0FY50R9hdp0LiWUBCn2a" name="Page-2">
-    <mxGraphModel dx="2436" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2436" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qdn3cvXZcZnqVHjBGzaH-0" />
         <mxCell id="qdn3cvXZcZnqVHjBGzaH-1" parent="qdn3cvXZcZnqVHjBGzaH-0" />
@@ -583,13 +583,13 @@
         <mxCell id="qGYsyedWptaGPFUAnfuZ-2" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" parent="qdn3cvXZcZnqVHjBGzaH-1" vertex="1">
           <mxGeometry x="-770" y="120" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qGYsyedWptaGPFUAnfuZ-3" value="&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;Получить налоговый&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;вычет&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="qdn3cvXZcZnqVHjBGzaH-1" vertex="1">
+        <mxCell id="qGYsyedWptaGPFUAnfuZ-3" value="&lt;font face=&quot;calibri&quot;&gt;Получение справок&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="qdn3cvXZcZnqVHjBGzaH-1" vertex="1">
           <mxGeometry x="-790" y="110" width="136" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qGYsyedWptaGPFUAnfuZ-4" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" parent="qdn3cvXZcZnqVHjBGzaH-1" vertex="1">
           <mxGeometry x="-764" y="530" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qGYsyedWptaGPFUAnfuZ-5" value="&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;Получить налоговый&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;вычет&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="qdn3cvXZcZnqVHjBGzaH-1" vertex="1">
+        <mxCell id="qGYsyedWptaGPFUAnfuZ-5" value="&lt;font face=&quot;calibri&quot;&gt;Получение справок&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="qdn3cvXZcZnqVHjBGzaH-1" vertex="1">
           <mxGeometry x="-784" y="520" width="136" height="80" as="geometry" />
         </mxCell>
       </root>
