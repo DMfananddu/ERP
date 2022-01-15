@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-15T08:49:44.078Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="nWWPY6DB_bDLo06MMcNr" version="16.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-15T08:57:59.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="NTL1ZEUs1h7TlrjLFbQp" version="16.2.4" type="github" pages="3">
   <diagram id="R8ttIzidEQtJR_QAX2Dy" name="Page-1">
     <mxGraphModel dx="2130" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -472,7 +472,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0FY50R9hdp0LiWUBCn2a" name="Page-2">
-    <mxGraphModel dx="2436" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2436" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qdn3cvXZcZnqVHjBGzaH-0" />
         <mxCell id="qdn3cvXZcZnqVHjBGzaH-1" parent="qdn3cvXZcZnqVHjBGzaH-0" />
@@ -601,7 +601,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3npTuxeB_6bI9l8mRmOp" name="Page-3">
-    <mxGraphModel dx="782" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1564" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="zSHuZFMuS364g9vfuIGs-0" />
         <mxCell id="zSHuZFMuS364g9vfuIGs-1" parent="zSHuZFMuS364g9vfuIGs-0" />
@@ -866,13 +866,13 @@
         <mxCell id="0YKyXn8sWqxYuTUSk4v5-0" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" parent="zSHuZFMuS364g9vfuIGs-1" vertex="1">
           <mxGeometry x="1131" y="340" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0YKyXn8sWqxYuTUSk4v5-1" value="&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;Получить налоговый&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;вычет&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="zSHuZFMuS364g9vfuIGs-1" vertex="1">
+        <mxCell id="0YKyXn8sWqxYuTUSk4v5-1" value="&lt;font face=&quot;calibri&quot;&gt;Подготовить пакет документов&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="zSHuZFMuS364g9vfuIGs-1" vertex="1">
           <mxGeometry x="1111" y="330" width="136" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0YKyXn8sWqxYuTUSk4v5-2" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" parent="zSHuZFMuS364g9vfuIGs-1" vertex="1">
           <mxGeometry x="1353" y="1300" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0YKyXn8sWqxYuTUSk4v5-3" value="&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;Получить налоговый&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;вычет&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="zSHuZFMuS364g9vfuIGs-1" vertex="1">
+        <mxCell id="0YKyXn8sWqxYuTUSk4v5-3" value="&lt;font face=&quot;calibri&quot;&gt;Подготовить пакет документов&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="zSHuZFMuS364g9vfuIGs-1" vertex="1">
           <mxGeometry x="1333" y="1290" width="136" height="80" as="geometry" />
         </mxCell>
       </root>
